@@ -1,3 +1,3 @@
-FooCoin (FOO)
+IPvSixCoin (SIX)
 
 Blah, blah, blah.
